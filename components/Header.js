@@ -35,7 +35,7 @@ class Header extends Component {
         <div className="row">
           <div className="col-md-8 text-left">
             <h1 className="text-success">
-              <img src='static/images/logo/logo.png' style={styles} alt="" /> เฮลตี้ คาเฟ่
+              <img src='/static/images/logo/logo.png' style={styles} alt="" /> เฮลตี้ คาเฟ่
             </h1> 
           </div>
           <div className="col-md-4 text-right">
